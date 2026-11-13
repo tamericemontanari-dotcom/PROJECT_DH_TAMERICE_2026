@@ -1,2 +1,2 @@
-#Activity Log 
+#ActivityLog 
 This is a file were my work is stored
